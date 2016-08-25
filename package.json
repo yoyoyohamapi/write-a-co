@@ -1,0 +1,22 @@
+{
+  "name": "write-a-co",
+  "version": "1.0.0",
+  "description": "一步步，手写一个co",
+  "main": "errorHandling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyoyohamapi/write-a-co.git"
+  },
+  "keywords": [
+    "co"
+  ],
+  "author": "yoyoyohamapi <softshot37@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoyoyohamapi/write-a-co/issues"
+  },
+  "homepage": "https://github.com/yoyoyohamapi/write-a-co#readme"
+}
